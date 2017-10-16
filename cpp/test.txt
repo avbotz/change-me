@@ -1,0 +1,19 @@
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_contrib.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_core.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_features2d.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_flann.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_gpu.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_highgui.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_legacy.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_ml.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_objdetect.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_ocl.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_photo.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_superres.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_ts.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_video.so: linker input file unused because linking not done
+g++: warning: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so: linker input file unused because linking not done
+
